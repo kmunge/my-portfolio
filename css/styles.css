@@ -6,13 +6,16 @@ html, body{
 strong{
   color: black;
 }
+form {
+  text-align: center;
+}
 
 a {
   color: #00d1b2;
 }
 
 a:hover {
-  color: #00d1b2;
+  color: #FFA500;
 }
 
 section{
